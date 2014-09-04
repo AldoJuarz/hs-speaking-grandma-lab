@@ -16,9 +16,11 @@ unless you shout it (type in all capitals).
 If you shout, she can hear you (or at least she thinks so) 
 and yells back.
 
+NO, NOT SINCE 1938!
+
 Need help figuring out how to use if/else statements? Click on the links below.
 
-NO, NOT SINCE 1938!
+
 ## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43?page=49) - [Chapter 7 Flow Control](http://books.flatironschool.com/books/43?page=49), page 49
-* [Learn to Program](http://books.flatironschool.com/books/43?page=141) - [Deaf Grandma](http://books.flatironschool.com/books/43?page=141), page 141
+* [Learn to Program](http://books.flatironschool.com/books/43?page=49) - [Chapter 6 Flow Control](https://pine.fm/LearnToProgram/?Chapter=06)
+* [Learn to Program](http://books.flatironschool.com/books/43?page=141) - [Deaf Grandma extended version](http://books.flatironschool.com/books/43?page=141), page 141 (If this link doesn't work you can also click on the link above and scroll to the bottom of the page.)
