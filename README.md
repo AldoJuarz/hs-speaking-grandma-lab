@@ -23,4 +23,4 @@ Need help figuring out how to use if/else statements? Click on the links below.
 
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43?page=49) - [Chapter 6 Flow Control](https://pine.fm/LearnToProgram/?Chapter=06)
-* [Learn to Program](http://books.flatironschool.com/books/43?page=141) - [Deaf Grandma extended version](http://books.flatironschool.com/books/43?page=141), page 141 (If this link doesn't work you can also click on the link above and scroll to the bottom of the page.)
+* [Learn to Program](http://books.flatironschool.com/books/43?page=141) - [Deaf Grandma](http://books.flatironschool.com/books/43?page=141) extended version, page 141 (If this link doesn't work you can also click on the link above and scroll to the bottom of the page.)
