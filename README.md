@@ -5,9 +5,10 @@ level: 3
 type: lab
 ---
 
-# Speak to Grandma
+## Speak to Grandma
+#### This is a group/pair lab. Write out pseudocode first!
 
-Write a speak_to_grandma method.
+Write a `speak_to_grandma` method that accepts one argument - what you want to say to her.
 
 Whatever you say to grandma, she should respond with
 HUH?! SPEAK UP, SONNY!
