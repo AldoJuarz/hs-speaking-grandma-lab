@@ -10,8 +10,7 @@ type: lab
 Write a speak_to_grandma method.
 
 Whatever you say to grandma, she should respond with
-HUH?! SPEAK UP, SONNY!
-unless you shout it (type in all capitals).
+HUH?! SPEAK UP, SONNY! unless you shout it (type in all capitals).
 
 If you shout, she can hear you (or at least she thinks so) 
 and yells back.
@@ -20,7 +19,14 @@ NO, NOT SINCE 1938!
 
 Need help figuring out how to use if/else statements? Check out the resources below.
 
-Too easy? Try the extended version: [Chris Pine's Learn to Program - Deaf Grandma](http://books.flatironschool.com/books/43?page=141) (If this link doesn't work you can also click on the link below and scroll to the bottom of the page.)
+##BONUS
+Too easy? To make your program really believable, have grandma shout a different year each time; maybe any year at random between 1930 and 1950. (Hint: There is a ruby method that will generate random numbers.) 
+
+###DOUBLE BONUS
+Grandma keeps talking to you and won't let you leave until you shout BYE. (Hint: You will probably want to use a while loop to keep the program running.)
+
+###TRIPLE BONUS
+Grandma really doesn't want you to leave! When you shout BYE, she pretends not to hear you. Change your program so that you have to shout BYE three times in a row before the program will end. Make sure to test your program: if you shout BYE three times, but not in a row, you should still be talking to grandma.
 
 
 ## Resources
