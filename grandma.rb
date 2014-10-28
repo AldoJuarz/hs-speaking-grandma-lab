@@ -1,4 +1,4 @@
-# Write a speak_to_grandma method.
+# Write a speak_to_grandma method that accepts one argument - what you want to say to her.
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
@@ -8,3 +8,4 @@
 # and yells back
 
 # NO, NOT SINCE 1938!
+
