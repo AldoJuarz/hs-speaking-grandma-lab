@@ -7,6 +7,7 @@ type: lab
 
 ##Deaf Grandma
 <img src="https://s3.amazonaws.com/after-school-assets/deaf_grandma.jpg" width="400">
+
 ***This is a group/pair lab. Write out pseudo-code first!***
 
 Write a `speak_to_grandma` method that accepts one argument: what you want to say to her. Whatever you say to grandma (whatever
