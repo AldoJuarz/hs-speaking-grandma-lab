@@ -1,9 +1,4 @@
----
-tags: logic, conditions, ruby, kids
-language: ruby
-level: 3
-type: lab
----
+
 
 ##Deaf Grandma
 <img src="https://s3.amazonaws.com/after-school-assets/deaf_grandma.jpg" width="400">
