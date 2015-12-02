@@ -23,3 +23,5 @@ Grandma really doesn't want you to leave! When you shout BYE, she pretends not t
 * [Learn to Program](http://books.flatironschool.com/books/43?page=49) - [Chapter 6 Flow Control](https://pine.fm/LearnToProgram/?Chapter=06)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/) - [If/Else](http://ruby.bastardsbook.com/chapters/ifelse/)
 
+
+<a href='https://learn.co/lessons/hs-speaking-grandma-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
