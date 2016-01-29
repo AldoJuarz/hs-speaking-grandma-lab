@@ -24,4 +24,4 @@ Grandma really doesn't want you to leave! When you shout BYE, she pretends not t
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/) - [If/Else](http://ruby.bastardsbook.com/chapters/ifelse/)
 
 
-<a href='https://learn.co/lessons/hs-speaking-grandma-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-speaking-grandma-lab' title='Deaf Grandma'>Deaf Grandma</a> on Learn.co and start learning to code for free.</p>
